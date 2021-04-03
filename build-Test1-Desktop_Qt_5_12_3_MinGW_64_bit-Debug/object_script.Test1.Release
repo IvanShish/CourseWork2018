@@ -1,0 +1,14 @@
+release/bw.o
+release/increase_bmp.o
+release/inversionn.o
+release/main.o
+release/mainwindow.o
+release/my_bmp.o
+release/reduction_bmp.o
+release/qrc_resources.o
+release/moc_bw.o
+release/moc_increase_bmp.o
+release/moc_inversionn.o
+release/moc_mainwindow.o
+release/moc_my_bmp.o
+release/moc_reduction_bmp.o

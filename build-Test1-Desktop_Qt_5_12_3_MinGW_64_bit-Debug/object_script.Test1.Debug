@@ -1,0 +1,14 @@
+debug/bw.o
+debug/increase_bmp.o
+debug/inversionn.o
+debug/main.o
+debug/mainwindow.o
+debug/my_bmp.o
+debug/reduction_bmp.o
+debug/qrc_resources.o
+debug/moc_bw.o
+debug/moc_increase_bmp.o
+debug/moc_inversionn.o
+debug/moc_mainwindow.o
+debug/moc_my_bmp.o
+debug/moc_reduction_bmp.o
